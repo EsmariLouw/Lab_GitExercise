@@ -1,1 +1,16 @@
- 
+ Dora and Esmari 
+
+ Esmari = Partner 1 
+ Dora = Partner 2
+
+Partner 1:
+- made the git repository and then checked it out
+- Added the new text file with - echo " " > file.txt
+- then did the git commit with message and then pushed it to the repository 
+
+Partner 2: 
+- Clone the repositpry
+- Git pull the repository
+- Ensured everything was up to date. 
+
+We pushed everything and then submitted this 
