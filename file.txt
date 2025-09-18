@@ -4,13 +4,13 @@
  Dora = Partner 2
 
 Partner 1:
-- made the git repository and then checked it out
+- Made the git repository and then checked it out
 - Added the new text file with - echo " " > file.txt
-- then did the git commit with message and then pushed it to the repository 
+- Then did the git commit with message and then pushed it to the repository 
 
 Partner 2: 
-- Clone the repositpry
+- Cloned the repository
 - Git pull the repository
-- Ensured everything was up to date. 
+- Ensured everything was up to date
 
-We pushed everything and then submitted this 
+We pushed everything and then submitted this :)
